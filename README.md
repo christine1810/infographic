@@ -1,3 +1,3 @@
 # infographic
 
-- [Infographic] (https://christine1810.github.io/infographic/Infographic2.pdf)
+- [Infographic] (https://christine1810.github.io/infographic/infographic.pdf)
